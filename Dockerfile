@@ -8,4 +8,4 @@ RUN freshclam
 
 VOLUME /var/lib/clamav
 
-ENTRYPOINT freshclam -d; tail -f /var/log/clamav/freshclam.log
+CMD freshclam -d; tail -f /var/log/clamav/freshclam.log
