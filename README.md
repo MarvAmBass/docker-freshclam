@@ -1,5 +1,7 @@
-# Docker Volume Container for up to date clamav virus definitions using freshclam
+# Docker Volume Container for up to date clamav virus definitions using freshclam (marvambass/freshclam)
 _maintained by MarvAmBass_
+
+[FAQ - All you need to know about the marvambass Containers](http://marvin.im/posts/IT/Docker/marvambass/FAQ__All_you_need_to_know_about_the_marvambass_Containers.html)
 
 ## What is it
 
